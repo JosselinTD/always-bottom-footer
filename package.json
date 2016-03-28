@@ -1,0 +1,20 @@
+{
+  "name": "always-bottom-footer",
+  "version": "1.0.0",
+  "description": "A little helper to force the webpage footer to always be on the bottom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JosselinTD/always-bottom-footer"
+  },
+  "keywords": [
+    "css",
+    "footer",
+    "bottom"
+  ],
+  "author": "Josselin TILLAY-DOLEDEC <josselin.td@gmail.com> (http://www.josselin-td.fr)",
+  "license": "ISC"
+}
